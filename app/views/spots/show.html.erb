@@ -1,0 +1,190 @@
+
+
+<ol class="breadcrumb">
+  <li><a href="/">Home</a></li>
+  <li><a href="/spots">Spots</a></li>
+  <li><a href="/areas/list/<%= @spot.area.id %>"><%= @spot.area.name %></a></li>
+  <li class="active"><%= @spot.name %></li>
+</ol>
+
+<div class="page-header">
+  <h1><%= @spot.name %></h1>
+</div>
+
+
+<p id="notice" class="text-success"><%= notice %></p>
+
+
+<div class="row">
+
+<div class="col-md-5">
+<p>
+  <img src="/assets/<%= @spot.image %>" class="img-responsive img-thumbnail">
+</p>
+
+</div><!--/span-->
+
+
+<div class="col-md-7">
+
+<table class="table table2 table-hover">
+  <tr>
+    <th width="22%"><span class="glyphicon glyphicon-volume-up"></span> Pinyin</th>
+    <td><%= @spot.pinyin %></td>
+  </tr>
+  <tr>
+    <th><span class="glyphicon glyphicon-map-marker"></span> Address</th>
+    <td><%= @spot.address %></td>
+  </tr>
+  <tr>
+    <th><span class="glyphicon glyphicon-time"></span> Open time</th>
+    <td><%= @spot.open_time %></td>
+  </tr>
+  <tr>
+    <th><span class="glyphicon glyphicon-usd"></span> Price</th>
+    <td><span class="label label-danger"><%= @spot.price %></span> RMB</td>
+  </tr>
+  <tr>
+    <th><span class="glyphicon glyphicon-stats"></span> Rate</th>
+    <td><%= @spot.rate %></td>
+  </tr>
+  <tr>
+    <th><span class="glyphicon glyphicon-tags"></span> Tags</th>
+    <td><%= @spot.tags %></td>
+  </tr>
+
+  <tr>
+    <th><span class="glyphicon glyphicon-folder-close"></span> Category</th>
+    <td><a href="/categories/list/<%= @spot.category.id %>"><%= @spot.category.name %></a></td>
+  </tr>
+
+  <tr>
+    <th><span class="glyphicon glyphicon-th"></span> Area</th>
+    <td><a href="/areas/list/<%= @spot.area.id %>"><%= @spot.area.name %></a></td>
+  </tr>
+
+  <tr>
+    <th><span class="glyphicon glyphicon-link"></span> Website</th>
+    <td><%= @spot.url %></td>
+  </tr>
+
+</table>
+
+
+</div><!--/span-->
+
+<div class="clearfix"></div>
+
+
+
+
+<div class="panel panel-info">
+  <div class="panel-heading">
+    <h3 class="panel-title">description</h3>
+  </div>
+  <div class="panel-body">
+    <%= @spot.description %>
+  </div>
+</div>
+
+
+<!-- Nav tabs -->
+<ul class="nav nav-tabs mb20">
+  <li class="active"><a href="#gallery" data-toggle="tab">Photo Gallery</a></li>
+  <li><a href="#reviews" data-toggle="tab">Reviews</a></li>
+  <li><a href="#hotels" data-toggle="tab">Hotels</a></li>
+</ul>
+
+<!-- Tab panes -->
+<div class="tab-content mb20">
+
+  <div class="tab-pane bg-white active" id="gallery">
+    <div class="center-block text-center">
+      <p>
+        <img src="/assets/<%= @spot.image %>" class="img-responsive img-thumbnail">
+      </p>
+
+      <% if @spot.image2 %>
+      <p>
+        <img src="/assets/<%= @spot.image2 %>" class="img-responsive img-thumbnail">
+      </p>
+      <% end %>
+      <% if @spot.image3 %>
+      <p>
+        <img src="/assets/<%= @spot.image3 %>" class="img-responsive img-thumbnail">
+      </p>
+      <% end %>
+      <% if @spot.image4 %>
+      <p>
+        <img src="/assets/<%= @spot.image4 %>" class="img-responsive img-thumbnail">
+      </p>
+      <% end %>
+    </div>
+  </div>
+
+  <div class="tab-pane bg-white" id="reviews">
+
+
+    <div class="row">
+      <div class="col-md-7">
+        <div class="page-header mt0">
+          <h2>Comments</h2>
+        </div>
+        <%= render @spot.comments %>
+      </div>
+
+      <div class="col-md-5">
+
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h3 class="panel-title">Add a comment:</h3>
+          </div>
+          <div class="panel-body">
+             <%= render "comments/form" %>
+          </div>
+        </div>
+       
+      </div>
+    </div>
+
+  </div>
+
+  <div class="tab-pane bg-white" id="hotels">
+    <p>Hotels Content ...</p>
+  </div>
+
+</div>
+
+
+
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">Around Spots</h3>
+  </div>
+  <div class="panel-body">
+    
+    <div class="row">
+    <%= render :partial=>"layouts/spotItem", locals: {zone: Spot.where("id != ?", @spot.id).where(area_id: @spot.area.id)} %>
+    </div><!--/row-->
+
+
+  </div>
+</div>
+
+<div class="ad-bnr">
+<a href="#"><img src="http://placehold.it/1200x100/f1f1f1/cccccc&text=AD Banner" class="img-responsive"></a>
+</div>
+
+
+</div><!--/row-->
+
+<hr>
+
+
+
+
+<ul class="pager">
+  <li class="previous"><%= link_to '← Back', spots_path %></li>
+  <li class="next"><%= link_to 'Edit', edit_spot_path(@spot) %></li>
+</ul>
+

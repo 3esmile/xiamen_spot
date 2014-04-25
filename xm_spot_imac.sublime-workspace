@@ -1,0 +1,1897 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cs",
+				"class"
+			],
+			[
+				"ca",
+				"category"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"cat",
+				"Category"
+			],
+			[
+				"pa",
+				"params"
+			],
+			[
+				"p",
+				"p_weight"
+			],
+			[
+				"borr",
+				"border-radius"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"for",
+				"form-txt"
+			],
+			[
+				"fo",
+				"form	Tag"
+			],
+			[
+				"ar",
+				"args"
+			],
+			[
+				"ite",
+				"item"
+			],
+			[
+				"ff",
+				"ffdf7f"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"php",
+				"phpinfo"
+			],
+			[
+				"cl",
+				"click"
+			],
+			[
+				"sear",
+				"search_w"
+			],
+			[
+				"es",
+				"easeOutBack"
+			],
+			[
+				"ea",
+				"each"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"ta",
+				"text-align"
+			],
+			[
+				"page-",
+				"page-title"
+			],
+			[
+				"app",
+				"appendTo"
+			],
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"new",
+				"news_id"
+			],
+			[
+				"ne",
+				"news_id"
+			],
+			[
+				"t",
+				"text"
+			],
+			[
+				"news",
+				"news_list"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"pro",
+				"products"
+			],
+			[
+				"it",
+				"item_list_hover"
+			],
+			[
+				"se",
+				"selected-cat"
+			],
+			[
+				"da",
+				"data-cid"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"dat",
+				"data-id"
+			],
+			[
+				"load",
+				"loader"
+			],
+			[
+				"con",
+				"contact"
+			],
+			[
+				"nex",
+				"next"
+			],
+			[
+				"pre",
+				"prev"
+			],
+			[
+				"bg_",
+				"bg_shadow_3"
+			],
+			[
+				"la",
+				"last-child"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"lis",
+				"list-box"
+			],
+			[
+				"ico",
+				"icons"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"tx",
+				"text-indent"
+			],
+			[
+				"b",
+				"background-attachment"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"d",
+				"dd"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"arr",
+				"arrow_2"
+			],
+			[
+				"com",
+				"common"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"hei",
+				"heights_h4"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"fa",
+				"false"
+			],
+			[
+				"tex",
+				"text-indent"
+			],
+			[
+				"produ",
+				"product"
+			],
+			[
+				"pt",
+				"pt_design"
+			],
+			[
+				"fade",
+				"fadeTo"
+			],
+			[
+				"max",
+				"maxHeight_h4"
+			],
+			[
+				"item",
+				"item-list"
+			],
+			[
+				"fad",
+				"fadeTo"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"ent",
+				"entry_h"
+			],
+			[
+				"an",
+				"animate"
+			],
+			[
+				"tim",
+				"time"
+			],
+			[
+				"MESS",
+				"message"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"tit",
+				"title_h"
+			],
+			[
+				"wra",
+				"wrapInner"
+			],
+			[
+				"al",
+				"alert"
+			],
+			[
+				"remo",
+				"removeClass"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"text-",
+				"text-box"
+			],
+			[
+				"fir",
+				"first-child"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"ac",
+				"active"
+			],
+			[
+				"wr",
+				"wrapInner"
+			],
+			[
+				"ba",
+				"backgroundColor"
+			],
+			[
+				"img",
+				"img-link"
+			],
+			[
+				"to",
+				"top"
+			],
+			[
+				"slider",
+				"sliders"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"bordr",
+				"border-right"
+			],
+			[
+				"fi",
+				"figure"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"borderr",
+				"border-top-right-radius"
+			],
+			[
+				"rb",
+				"rgba()"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"su",
+				"sub-nav"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"js",
+				"jswing"
+			],
+			[
+				"sl",
+				"slow"
+			],
+			[
+				"sli",
+				"slideDown"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"send",
+				"Sending"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"tes",
+				"test-a"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/views/areas/list.html.erb",
+			"settings":
+			{
+				"buffer_size": 546,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/categories_controller.rb",
+			"settings":
+			{
+				"buffer_size": 2765,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/routes.rb",
+			"settings":
+			{
+				"buffer_size": 2026,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/areas_controller.rb",
+			"settings":
+			{
+				"buffer_size": 2471,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/spots_controller.rb",
+			"settings":
+			{
+				"buffer_size": 2225,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/comments/_comment.html.erb",
+			"settings":
+			{
+				"buffer_size": 565,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/top/index.html.erb",
+			"settings":
+			{
+				"buffer_size": 3152,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/spots/show.html.erb",
+			"settings":
+			{
+				"buffer_size": 3745,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/comments/_form.html.erb",
+			"settings":
+			{
+				"buffer_size": 248,
+				"line_ending": "Unix",
+				"name": "<p>"
+			}
+		},
+		{
+			"file": "app/models/spot.rb",
+			"settings":
+			{
+				"buffer_size": 440,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/comment.rb",
+			"settings":
+			{
+				"buffer_size": 94,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/comments_controller.rb",
+			"settings":
+			{
+				"buffer_size": 602,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/layouts/application.html.erb",
+			"settings":
+			{
+				"buffer_size": 1126,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/3esmile/xiamen/app/views/categories/list.html.erb",
+		"/Users/3esmile/xiamen/app/views/layouts/_header.erb",
+		"/Users/3esmile/xiamen/app/views/layouts/_footer.erb",
+		"/Users/3esmile/xiamen/app/views/spots/index.html.erb",
+		"/Users/3esmile/xiamen/app/views/layouts/_spotItem.html.erb",
+		"/Users/3esmile/xiamen/app/views/categories/show.html.erb",
+		"/Users/3esmile/xiamen/app/views/categories/show.html_bk20140421.erb",
+		"/Users/3esmile/xiamen/app/controllers/categories_controller.rb",
+		"/Users/3esmile/xiamen/app/controllers/top_controller.rb",
+		"/Users/3esmile/xiamen/app/controllers/spots_controller.rb",
+		"/Users/3esmile/xiamen/app/assets/stylesheets/module.css",
+		"/Users/3esmile/xiamen/app/controllers/application_controller.rb",
+		"/Users/3esmile/xiamen/app/models/spot.rb",
+		"/Users/3esmile/xiamen/app/views/areas/_form.html.erb",
+		"/Users/3esmile/xiamen/app/views/spots/show.html.erb",
+		"/Users/3esmile/xiamen/app/views/layouts/application.html.erb",
+		"/Users/3esmile/xiamen/app/views/top/index.html.erb",
+		"/Users/3esmile/xiamen/app/assets/stylesheets/main.css",
+		"/Users/3esmile/xiamen/app/controllers/areas_controller.rb",
+		"/Users/3esmile/xiamen/app/views/spots/index.html_bk20140415.erb",
+		"/Users/3esmile/xiamen/app/assets/stylesheets/bootstrap.min.css",
+		"/Users/3esmile/xiamen/app/models/category.rb",
+		"/Users/3esmile/xiamen/app/models/area.rb",
+		"/Users/3esmile/xiamen/app/views/spots/_form.html.erb",
+		"/Users/3esmile/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/3esmile/xiamen/db/migrate/20140110085709_create_spots.rb",
+		"/Users/3esmile/xiamen/config/application.rb",
+		"/Users/3esmile/xiamen/config/routes.rb",
+		"/Users/3esmile/xiamen/config/environment.rb",
+		"/Users/3esmile/xiamen/db/migrate/20140110092100_add_column_to_category_id_to_spots.rb",
+		"/all-stars/Google Drive/Dropbox/projects/mymymarket/skins/basic/admin/views/products/update.tpl",
+		"/all-stars/Google Drive/Dropbox/projects/mymymarket/skins/basic/admin/views/shippings/update.tpl",
+		"/all-stars/Google Drive/Dropbox/projects/mymymarket/skins/basic/customer/views/checkout/components/checkout_totals.tpl",
+		"/all-stars/Google Drive/Dropbox/projects/twe_/static/c/mobile.css",
+		"/all-stars/Google Drive/Dropbox/projects/mymymarket/skins/basic/admin/common_templates/mainbox.tpl",
+		"/all-stars/Google Drive/Dropbox/projects/mymymarket/skins/basic/admin/js/main.js",
+		"/all-stars/Google Drive/Dropbox/projects/mymymarket/js/profiles_scripts.js",
+		"/all-stars/Google Drive/Dropbox/projects/mymymarket/skins/basic/admin/views/products/update_bk20140319.tpl",
+		"/all-stars/Google Drive/Dropbox/projects/mymymarket/js/tabs.js",
+		"/all-stars/Google Drive/Dropbox/projects/mymymarket/sftp-config.json",
+		"/all-stars/Google Drive/Dropbox/projects/mymymarket/skins/basic/admin/styles.css",
+		"/all-stars/Google Drive/Dropbox/projects/mymymarket/skins/basic/admin/views/shippings/update_bk20140319.tpl",
+		"/all-stars/Google Drive/Dropbox/projects/mymymarket/sftp-config-cj.json",
+		"/var/folders/wg/5n_yvlsd6psgkrzbh8rl3gb00000gn/T/sublime-sftp-browse-1381135955/mapped/home/sites/heteml/users158/c/h/r/chrisjack/web/projects/mymymarket/skins/basic/admin/js/main.js",
+		"/all-stars/Google Drive/Dropbox/projects/mymymarket/skins/basic/customer/views/profiles/components/profile_fields.tpl",
+		"/all-stars/Google Drive/Dropbox/projects/mymymarket/skins/basic/customer/views/profiles/update.tpl",
+		"/all-stars/Google Drive/Dropbox/projects/mymymarket/skins/basic/customer/views/profiles/update_bk20130911.tpl",
+		"/all-stars/Google Drive/Dropbox/projects/mymymarket/skins/basic/customer/views/checkout/components/checkout_totals_info.tpl",
+		"/all-stars/Google Drive/Dropbox/projects/mymymarket/skins/basic/admin/index.tpl",
+		"/all-stars/Google Drive/Dropbox/projects/mymymarket/skins/basic/admin/views/index/index.tpl",
+		"/var/folders/wg/5n_yvlsd6psgkrzbh8rl3gb00000gn/T/sublime-sftp-browse-1378113498/mapped/home/sites/heteml/users158/c/h/r/chrisjack/web/projects/mymymarket/skins/basic/admin/views/index/index.tpl",
+		"/var/folders/wg/5n_yvlsd6psgkrzbh8rl3gb00000gn/T/sublime-sftp-browse-1378171996/mapped/home/sites/heteml/users158/c/h/r/chrisjack/web/projects/mymymarket/var/cache/templates/customer/%%37^370^3709FD45%%checkout_totals.tpl.php",
+		"/all-stars/Google Drive/Dropbox/projects/mymymarket/skins/basic/customer/views/checkout/components/checkout_totals_bk20130902.tpl",
+		"/var/folders/wg/5n_yvlsd6psgkrzbh8rl3gb00000gn/T/sublime-sftp-browse-1378172414/mapped/home/sites/heteml/users158/c/h/r/chrisjack/web/projects/mymymarket/var/cache/templates/customer/%%37^370^3709FD45%%checkout_totals.tpl.php",
+		"/var/folders/wg/5n_yvlsd6psgkrzbh8rl3gb00000gn/T/sublime-sftp-browse-1378172863/mapped/home/sites/heteml/users158/c/h/r/chrisjack/web/projects/mymymarket/var/cache/templates/customer/%%5B^5BD^5BD6895F%%checkout.tpl.php",
+		"/var/folders/wg/5n_yvlsd6psgkrzbh8rl3gb00000gn/T/sublime-sftp-browse-1378172801/mapped/home/sites/heteml/users158/c/h/r/chrisjack/web/projects/mymymarket/var/cache/templates/customer/%%11^11B^11B16AA1%%checkout.tpl.php",
+		"/var/folders/wg/5n_yvlsd6psgkrzbh8rl3gb00000gn/T/sublime-sftp-browse-1378172932/mapped/home/sites/heteml/users158/c/h/r/chrisjack/web/projects/mymymarket/var/cache/templates/customer/%%11^11B^11B16AA1%%checkout.tpl.php",
+		"/var/folders/wg/5n_yvlsd6psgkrzbh8rl3gb00000gn/T/sublime-sftp-browse-1378172973/mapped/home/sites/heteml/users158/c/h/r/chrisjack/web/projects/mymymarket/var/cache/templates/customer/%%37^370^3709FD45%%checkout_totals.tpl.php",
+		"/all-stars/Google Drive/Dropbox/projects/mymymarket/skins/basic/admin/common_templates/view_tools.tpl",
+		"/var/folders/wg/5n_yvlsd6psgkrzbh8rl3gb00000gn/T/sublime-sftp-browse-1378092568/mapped/home/sites/heteml/users158/c/h/r/chrisjack/web/projects/mymymarket/skins/basic/admin/views/products/update.tpl",
+		"/var/folders/wg/5n_yvlsd6psgkrzbh8rl3gb00000gn/T/sublime-sftp-browse-1378090885/mapped/home/sites/heteml/users158/c/h/r/chrisjack/web/projects/mymymarket/skins/basic/admin/common_templates/scripts.tpl",
+		"/all-stars/Google Drive/Dropbox/projects/mymymarket/skins/basic/admin/common_templates/scripts.tpl",
+		"/all-stars/Google Drive/Dropbox/projects/mymymarket/skins/basic/customer/dropdown.css",
+		"/all-stars/Google Drive/Dropbox/projects/mymymarket/skins/basic/customer/base.css",
+		"/all-stars/Google Drive/Dropbox/projects/mymymarket/skins/basic/admin/css/mobile.css",
+		"/var/folders/wg/5n_yvlsd6psgkrzbh8rl3gb00000gn/T/sublime-sftp-browse-1378044451/mapped/home/sites/heteml/users158/c/h/r/chrisjack/web/projects/mymymarket/skins/basic/admin/common_templates/scripts.tpl",
+		"/var/folders/wg/5n_yvlsd6psgkrzbh8rl3gb00000gn/T/sublime-sftp-browse-1378044422/mapped/home/sites/heteml/users158/c/h/r/chrisjack/web/projects/mymymarket/skins/basic/admin/common_templates/styles.tpl",
+		"/all-stars/Google Drive/Dropbox/projects/ppl/static/j/plugins.js",
+		"/all-stars/Google Drive/Dropbox/projects/ppl/admin/wp-content/themes/ppl/page.php",
+		"/all-stars/Google Drive/Dropbox/projects/ktfw/asp/static/j/main.js",
+		"/all-stars/Google Drive/Dropbox/projects/ktfw/asp/static/j/plugins.js",
+		"/all-stars/Google Drive/Dropbox/projects/bestvictors/static/j/plugins.js",
+		"/all-stars/Google Drive/Dropbox/projects/ppl/admin/wp-content/themes/ppl/content-news.php",
+		"/all-stars/Google Drive/Dropbox/projects/ppl/admin/wp-content/themes/ppl/content-about.php",
+		"/all-stars/Google Drive/Dropbox/projects/ppl/admin/wp-content/themes/ppl/functions.php",
+		"/all-stars/Google Drive/Dropbox/projects/ppl/admin/wp-content/themes/ppl/header.php",
+		"/all-stars/Google Drive/Dropbox/projects/ppl/static/c/main.css",
+		"/all-stars/Google Drive/Dropbox/projects/ppl/static/j/main.js",
+		"/all-stars/Google Drive/Dropbox/projects/ppl/admin/wp-content/themes/ppl/footer.php",
+		"/all-stars/Google Drive/Dropbox/projects/ppl/admin/wp-content/themes/ppl/inc/item-product.php",
+		"/all-stars/Google Drive/Dropbox/projects/ppl/admin/wp-content/themes/ppl/content-single.php",
+		"/all-stars/Google Drive/Dropbox/projects/ppl/admin/wp-content/themes/ppl/inc/slider-gallery.php",
+		"/all-stars/Google Drive/Dropbox/projects/ppl/admin/wp-content/themes/ppl/inc/page-ids.php",
+		"/all-stars/Google Drive/Dropbox/projects/ppl/inc/list_gallery.php",
+		"/all-stars/Google Drive/Dropbox/projects/ppl/admin/wp-content/themes/ppl/inc/item-gallery.php",
+		"/all-stars/Google Drive/Dropbox/projects/ppl/static/c/common.css",
+		"/all-stars/Google Drive/Dropbox/projects/ppl/admin/wp-content/themes/ppl/sidebar-related.php",
+		"/all-stars/Google Drive/Dropbox/projects/ppl/admin/wp-content/themes/ppl/sidebar.php",
+		"/all-stars/Google Drive/Dropbox/projects/ppl/admin/wp-content/themes/ppl/inc/item-news.php",
+		"/all-stars/Google Drive/Dropbox/projects/ppl/inc/list_gallery_bk20130719.php",
+		"/all-stars/Google Drive/Dropbox/projects/ppl/ppl_local_20130719.sql",
+		"/all-stars/Google Drive/Dropbox/projects/ppl/static/i/top/img_slider_2.jpg",
+		"/all-stars/Google Drive/Dropbox/projects/ppl/static/i/top/img_slider_5.jpg",
+		"/all-stars/Google Drive/Dropbox/projects/ppl/static/i/top/img_slider_3.jpg",
+		"/all-stars/Google Drive/Dropbox/projects/ppl/sftp-config.json",
+		"/all-stars/Google Drive/Dropbox/projects/ppl/static/j/orbit.js",
+		"/all-stars/Google Drive/Dropbox/projects/ppl/inc/list_product.php",
+		"/all-stars/Google Drive/Dropbox/projects/ppl/admin/wp-content/themes/ppl/inc/slider-top.php",
+		"/all-stars/Google Drive/Dropbox/projects/ppl/admin/wp-content/themes/ppl/page-templates/top.php",
+		"/all-stars/Google Drive/Dropbox/projects/ppl/admin/wp-content/themes/ppl/search.php",
+		"/all-stars/Google Drive/Dropbox/projects/ppl/admin/wp-content/themes/ppl/404.php",
+		"/all-stars/Google Drive/Dropbox/projects/ppl/static/c/slider.css",
+		"/all-stars/Google Drive/Dropbox/projects/ppl/static/c/module.css",
+		"/all-stars/Google Drive/Dropbox/projects/bestvictors/admin/wp-content/themes/bv/content-list-news.php",
+		"/all-stars/Google Drive/Dropbox/projects/ucan/static/j/main.js",
+		"/all-stars/Google Drive/Dropbox/projects/iblade/static/j/common.js",
+		"/all-stars/Google Drive/Dropbox/projects/pmca4/static/j/main.js",
+		"/all-stars/Google Drive/Dropbox/projects/ppl/admin/wp-content/themes/ppl/index.php",
+		"/all-stars/Google Drive/Dropbox/projects/ppl/admin/wp-content/themes/ppl/single.php",
+		"/all-stars/Google Drive/Dropbox/projects/ppl/admin/wp-content/themes/ppl/content-single-news.php",
+		"/all-stars/Google Drive/Dropbox/projects/ppl/admin/wp-content/themes/ppl/category.php",
+		"/all-stars/Google Drive/Dropbox/projects/iblade/static/c/main.css",
+		"/all-stars/Google Drive/Dropbox/projects/iblade/admin/wp-content/themes/ic/header.php",
+		"/all-stars/Google Drive/Dropbox/projects/ppl/ppl_local_20130707_2.sql",
+		"/all-stars/Google Drive/Dropbox/projects/ppl/ppl_t_ser_20130707.sql",
+		"/all-stars/Google Drive/Dropbox/projects/ppl/ppl_local_20130707.sql",
+		"/all-stars/Google Drive/Dropbox/projects/ppl/static/j/t.js",
+		"/all-stars/Google Drive/Dropbox/projects/twe/static/j/work/settings.js",
+		"/all-stars/Google Drive/Dropbox/projects/ppl/admin/wp-content/themes/twentytwelve/index.php",
+		"/all-stars/Google Drive/Dropbox/projects/iblade/admin/wp-content/themes/ic/inc/product-list.php",
+		"/all-stars/Google Drive/Dropbox/projects/ppl/admin/wp-content/themes/ppl/inc/page-title.php",
+		"/all-stars/Google Drive/Dropbox/projects/ppl/html/p-detail.html",
+		"/all-stars/Google Drive/Dropbox/projects/ppl/admin/wp-content/themes/ppl/includes/main-p-detail.html",
+		"/all-stars/Google Drive/Dropbox/projects/ppl/html/news.html",
+		"/all-stars/Google Drive/Dropbox/projects/twe/admin/wp-content/themes/twe/content-work-detail.php",
+		"/all-stars/Google Drive/Dropbox/projects/ppl/admin/wp-content/themes/ppl/includes/sidebar-related.html",
+		"/all-stars/Google Drive/Dropbox/projects/ppl/admin/wp-content/themes/ppl/content-single-product.php",
+		"/all-stars/Google Drive/Dropbox/projects/ppl/admin/wp-content/themes/ppl/single-news.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"article",
+			"col-md-2",
+			"../fonts/",
+			"table",
+			"配送サービスの種類",
+			"配送方法の編集: クロネコヤマト",
+			"idTabs",
+			"tabs.",
+			"tabs",
+			"id",
+			".tabs(",
+			".tabs",
+			"<!-- ************************************************************ 11111<br /> -->",
+			".tabs ul li",
+			"tabs.js",
+			"mainbox-body",
+			"btn-bar",
+			"btn",
+			"btn-bar",
+			"cm-switch-visibilty",
+			"cm-switch-availability",
+			"input-text",
+			"elm",
+			"user_data",
+			"user_data[s_firstname]",
+			"shipping-last-name",
+			"subheader",
+			"address-switch",
+			"shipping-first-name",
+			"profile_form",
+			"address-switch",
+			"請求先住所に配送",
+			"statistic-list",
+			"clear",
+			"tools-container",
+			"ul.dropdown-vertical a",
+			".btn",
+			".btn-bar",
+			"products.view",
+			"extra-tools",
+			"attachments",
+			"tool-link",
+			"extra-tools",
+			"search",
+			"statistics-box",
+			".btn",
+			".table-fixed tr td, .section-border table tr td, .search-header .search-field select",
+			".content",
+			".tools-list",
+			".pagination_contents ",
+			"#content_manage_products .cm-check-changes ",
+			"body div#main_column",
+			"bg_shadow",
+			"fancybox",
+			".list-box",
+			"arrow_3.gif",
+			".hover",
+			"url('images",
+			".nav-3",
+			"arrow_2.gif",
+			"arrow_3.gif",
+			"arrow_2.gif",
+			"arrow_3.gif",
+			".sub-menu li",
+			"nav-3",
+			"sub_menu",
+			"item_list_li",
+			".box",
+			".list-box",
+			".c-orange",
+			".color.c-orange",
+			"l_img_'. $color_c . '_'.$i",
+			"发展历程",
+			"bg_shadow_5",
+			".page-main-img",
+			"gallery()",
+			".item-list ul li",
+			"placeholder",
+			"placholder",
+			"loader",
+			"p-detail-flow",
+			".loading",
+			"loading",
+			"bread",
+			"http://ppl.3esmile.me",
+			"http://ppl.p:8888",
+			"entry-body",
+			"sidebar",
+			"p_count()",
+			"$.p_count();",
+			".color-l.c-purple",
+			"filter",
+			"item-list",
+			".p-desc",
+			"p-desc",
+			"<p class=\"entry-meta\">",
+			"<h4><a href=\"#\">新品上市 輕系列—Samsung 9500</a></h4>",
+			"img_t_1.jpg",
+			"e6e6e6",
+			"overflow: hidden;",
+			"<p class=\"color\">",
+			"orbit",
+			"data",
+			"data-",
+			"data-tracking",
+			"data-tracking-elem",
+			"data-market",
+			" class=\"c-img\"",
+			"260",
+			".item-list .excerpt",
+			".item-list .excerpt, .item-list dd",
+			"#home #container",
+			"bg_main_nav.gif",
+			"009245",
+			"#company",
+			"#main-nav ul.dropdown ul li a",
+			"productions",
+			".active",
+			".post .post-single",
+			".post-single",
+			"'post'",
+			"'design'",
+			"'app'",
+			"'company'",
+			"$pt_products",
+			"'products'",
+			"'material'",
+			"'production'"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"spot",
+			"col-md-3",
+			"/assets/",
+			"table2",
+			"",
+			"url('/static/i",
+			".nav-series",
+			"arrow_3.gif",
+			"arrow_4.gif",
+			"arrow_3.gif",
+			"arrow_4.gif",
+			".sub-menu dd",
+			"nav-series",
+			"sub-menu",
+			"l_img_r_'.$i",
+			"http://ppl.p:8888",
+			"http://ppl.3esmile.me",
+			"",
+			"1e3158",
+			"production",
+			".post-single",
+			"/",
+			"'<strong>All</strong>'",
+			"width=\"200\" height=\"42\"",
+			".png\"",
+			"/static/i/settings/",
+			"url('/static/i/plugins/fancybox/",
+			".sidebar .aside-listurl('/static/i/plugins/fancybox/",
+			".sidebar .aside-list",
+			"<li class=\"tags aside-list\">",
+			".gallery-box",
+			"<section class=\"gallery-box\">",
+			".gallery-box",
+			"3242 3032"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/views/areas/list.html.erb",
+					"settings":
+					{
+						"buffer_size": 546,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								266,
+								136
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/controllers/categories_controller.rb",
+					"settings":
+					{
+						"buffer_size": 2765,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								759,
+								759
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "config/routes.rb",
+					"settings":
+					{
+						"buffer_size": 2026,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								98,
+								98
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/controllers/areas_controller.rb",
+					"settings":
+					{
+						"buffer_size": 2471,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								780,
+								780
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/controllers/spots_controller.rb",
+					"settings":
+					{
+						"buffer_size": 2225,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								431,
+								536
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/views/comments/_comment.html.erb",
+					"settings":
+					{
+						"buffer_size": 565,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								254,
+								254
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 6,
+					"file": "app/views/top/index.html.erb",
+					"settings":
+					{
+						"buffer_size": 3152,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2433,
+								2506
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/views/spots/show.html.erb",
+					"settings":
+					{
+						"buffer_size": 3745,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2859,
+								2859
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1702.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/views/comments/_form.html.erb",
+					"settings":
+					{
+						"buffer_size": 248,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								209,
+								209
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<p>",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "app/models/spot.rb",
+					"settings":
+					{
+						"buffer_size": 440,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								208,
+								208
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "app/models/comment.rb",
+					"settings":
+					{
+						"buffer_size": 94,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								94,
+								94
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "app/controllers/comments_controller.rb",
+					"settings":
+					{
+						"buffer_size": 602,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								81,
+								81
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "app/views/layouts/application.html.erb",
+					"settings":
+					{
+						"buffer_size": 1126,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1108,
+								1108
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.46333521217,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"app",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"item",
+				"app/views/layouts/_spotItem.html.erb"
+			],
+			[
+				"foo",
+				"app/views/layouts/_footer.erb"
+			],
+			[
+				"header",
+				"app/views/layouts/_header.erb"
+			],
+			[
+				"main.",
+				"app/assets/stylesheets/main.css"
+			],
+			[
+				"form",
+				"app/views/areas/_form.html.erb"
+			],
+			[
+				"modu",
+				"app/assets/stylesheets/module.css"
+			],
+			[
+				"off",
+				"app/assets/stylesheets/offcanvas.css"
+			],
+			[
+				"_hea",
+				"app/views/layouts/_header.erb"
+			],
+			[
+				"mo",
+				"app/assets/stylesheets/module.css"
+			],
+			[
+				"head",
+				"app/views/layouts/_header.erb"
+			],
+			[
+				"main.js",
+				"skins/basic/admin/js/main.js"
+			],
+			[
+				"index.tpl",
+				"skins/basic/admin/index.tpl"
+			],
+			[
+				"checkout_totals",
+				"skins/basic/customer/views/checkout/components/checkout_totals.tpl"
+			],
+			[
+				"checkout_totals.tpl",
+				"skins/basic/customer/views/checkout/components/checkout_totals.tpl"
+			],
+			[
+				"mainbox",
+				"skins/basic/admin/common_templates/mainbox.tpl"
+			],
+			[
+				"admin/mobile.",
+				"skins/basic/admin/css/mobile.css"
+			],
+			[
+				"admin/style.css",
+				"skins/basic/admin/styles.css"
+			],
+			[
+				"content-pa",
+				"admin/wp-content/themes/ppl/content-page.php"
+			],
+			[
+				"page.",
+				"admin/wp-content/themes/ppl/page.php"
+			],
+			[
+				"page-titl",
+				"admin/wp-content/themes/ppl/inc/page-title.php"
+			],
+			[
+				"page-id",
+				"admin/wp-content/themes/ppl/inc/page-ids.php"
+			],
+			[
+				"gallery",
+				"admin/wp-content/themes/ppl/inc/item-gallery.php"
+			],
+			[
+				"func",
+				"admin/wp-content/themes/ppl/functions.php"
+			],
+			[
+				"ma",
+				"static/j/main.js"
+			],
+			[
+				"plugins",
+				"static/j/plugins.js"
+			],
+			[
+				"main.css",
+				"static/c/main.css"
+			],
+			[
+				"network",
+				"admin/wp-content/themes/ppl/content-network.php"
+			],
+			[
+				"content-new",
+				"admin/wp-content/themes/ppl/content-news.php"
+			],
+			[
+				"item-new",
+				"admin/wp-content/themes/ppl/inc/item-news.php"
+			],
+			[
+				"footer",
+				"admin/wp-content/themes/ppl/footer.php"
+			],
+			[
+				"sidebar",
+				"admin/wp-content/themes/ppl/sidebar.php"
+			],
+			[
+				"item-",
+				"admin/wp-content/themes/ppl/inc/item-product.php"
+			],
+			[
+				"slider-gall",
+				"admin/wp-content/themes/ppl/inc/slider-gallery.php"
+			],
+			[
+				"single",
+				"admin/wp-content/themes/ppl/content-single.php"
+			],
+			[
+				"item-pro",
+				"admin/wp-content/themes/ppl/inc/item-product.php"
+			],
+			[
+				"about",
+				"admin/wp-content/themes/ppl/content-about.php"
+			],
+			[
+				"sli",
+				"static/c/slider.css"
+			],
+			[
+				"list_gallery",
+				"inc/list_gallery.php"
+			],
+			[
+				"main",
+				"static/j/main.js"
+			],
+			[
+				"404.",
+				"admin/wp-content/themes/ppl/404.php"
+			],
+			[
+				"search",
+				"admin/wp-content/themes/ppl/search.php"
+			],
+			[
+				"plug",
+				"static/j/plugins.js"
+			],
+			[
+				"content-about",
+				"admin/wp-content/themes/ppl/content-about.php"
+			],
+			[
+				"top.",
+				"admin/wp-content/themes/ppl/page-templates/top.php"
+			],
+			[
+				"slider.ph",
+				"admin/wp-content/themes/ppl/inc/slider-top.php"
+			],
+			[
+				"list_pro",
+				"inc/list_product.php"
+			],
+			[
+				"o",
+				"static/j/orbit.js"
+			],
+			[
+				"",
+				"static/c/module.css"
+			],
+			[
+				"main.j",
+				"static/j/main.js"
+			],
+			[
+				"comm",
+				"static/c/common.css"
+			],
+			[
+				"category.php",
+				"admin/wp-content/themes/ppl/category.php"
+			],
+			[
+				"module",
+				"static/c/module.css"
+			],
+			[
+				"list",
+				"inc/list_gallery.php"
+			],
+			[
+				"news",
+				"html/news.html"
+			],
+			[
+				"p-de",
+				"html/p-detail.html"
+			],
+			[
+				"fun",
+				"admin/wp-content/themes/ppl/functions.php"
+			],
+			[
+				"page-ti",
+				"admin/wp-content/themes/ppl/inc/page-title.php"
+			],
+			[
+				"page-navi",
+				"admin/wp-content/themes/ppl/inc/page-navi.php"
+			],
+			[
+				"content.",
+				"admin/wp-content/themes/ppl/content.php"
+			],
+			[
+				"/ppl/index",
+				"admin/wp-content/themes/ppl/index.php"
+			],
+			[
+				"page-title",
+				"admin/wp-content/themes/ppl/inc/page-title.php"
+			],
+			[
+				"content-page",
+				"admin/wp-content/themes/ppl/content-page.php"
+			],
+			[
+				"sidebar.ph",
+				"admin/wp-content/themes/ppl/sidebar.php"
+			],
+			[
+				"sidebar.php",
+				"admin/wp-content/themes/ppl/sidebar.php"
+			],
+			[
+				"side",
+				"html/includes/sidebar.html"
+			],
+			[
+				"prod",
+				"html/products.html"
+			],
+			[
+				"main-top",
+				"html/includes/main-top.html"
+			],
+			[
+				"slider.",
+				"html/includes/slider-top.html"
+			],
+			[
+				"slider.html",
+				"html/demo/slider/slider.html"
+			],
+			[
+				"content",
+				"admin/wp-content/themes/ppl/content-page.php"
+			],
+			[
+				"page-ids",
+				"admin/wp-content/themes/ppl/inc/page-ids.php"
+			],
+			[
+				"header.",
+				"html/includes/header.html"
+			],
+			[
+				"meta",
+				"html/includes/meta.html"
+			],
+			[
+				"header.php",
+				"admin/wp-content/themes/ppl/header.php"
+			],
+			[
+				"no",
+				"static/c/normalize.css"
+			],
+			[
+				"prou",
+				"html/products.html"
+			],
+			[
+				"in",
+				"html/index.html"
+			],
+			[
+				"impo",
+				"static/c/import.css"
+			],
+			[
+				"plu",
+				"static/j/plugins.js"
+			],
+			[
+				"imp",
+				"static/c/import.css"
+			],
+			[
+				"home",
+				"static/c/home.css"
+			],
+			[
+				"index",
+				"html/index.html"
+			],
+			[
+				"main-na",
+				"admin/wp-content/themes/ic/inc/main-nav.php"
+			],
+			[
+				"slider",
+				"admin/wp-content/themes/ic/inc/slider.php"
+			],
+			[
+				"page-i",
+				"admin/wp-content/themes/ic/inc/page-ids.php"
+			],
+			[
+				"home.",
+				"static/c/home.css"
+			],
+			[
+				"basic",
+				"static/j/basic-jquery-slider.js"
+			],
+			[
+				"searchfor",
+				"admin/wp-content/themes/ic/searchform.php"
+			],
+			[
+				"home.php",
+				"admin/wp-content/themes/ic/pages/home.php"
+			],
+			[
+				"common.css",
+				"static/c/common.css"
+			],
+			[
+				"sing",
+				"admin/wp-content/themes/ic/single.php"
+			],
+			[
+				"product",
+				"admin/wp-content/themes/ic/pages/products.php"
+			],
+			[
+				"single-pro",
+				"admin/wp-content/themes/ic/content-single-product.php"
+			],
+			[
+				"product-list",
+				"admin/wp-content/themes/ic/inc/product-list.php"
+			],
+			[
+				"tax",
+				"admin/wp-content/themes/ic/taxonomy.php"
+			],
+			[
+				"sidebar-pro",
+				"admin/wp-content/themes/ic/sidebar-product.php"
+			],
+			[
+				"single-pr",
+				"admin/wp-content/themes/ic/content-single-product.php"
+			],
+			[
+				"-tax",
+				"admin/wp-content/themes/ic/content-tax.php"
+			],
+			[
+				"commn",
+				"static/j/common.js"
+			],
+			[
+				"single-product.p",
+				"admin/wp-content/themes/ic/content-single-product.php"
+			],
+			[
+				"inc-nav",
+				"admin/wp-content/themes/ic/inc-nav-single.php"
+			],
+			[
+				"bod",
+				"admin/wp-content/themes/ic/inc/body-ids.php"
+			],
+			[
+				"page_id",
+				"admin/wp-content/themes/ic/inc/page_ids.php"
+			],
+			[
+				"pagei",
+				"admin/wp-content/themes/ic/inc/page-ids.php"
+			],
+			[
+				"body",
+				"admin/wp-content/themes/ic/inc/body-ids.php"
+			],
+			[
+				"pro",
+				"admin/wp-content/themes/ic/pages/products.php"
+			],
+			[
+				"import.css",
+				"static/c/import.css"
+			],
+			[
+				"import.js",
+				"static/j/import.js"
+			],
+			[
+				"tax.",
+				"admin/wp-content/themes/ic/content-tax.php"
+			],
+			[
+				"categ",
+				"admin/wp-content/themes/ic/category.php"
+			],
+			[
+				"produc",
+				"admin/wp-content/themes/ic/pages/products.php"
+			],
+			[
+				"select",
+				"mypage/upload/select/index.html"
+			],
+			[
+				"main.c",
+				"static/c/main.css"
+			],
+			[
+				"selec",
+				"mypage/upload/select/index.html"
+			],
+			[
+				"03-02-01",
+				"html/03-02-01-a.html"
+			],
+			[
+				"com",
+				"static/c/common.css"
+			],
+			[
+				"/j/main.js",
+				"static/j/main.js"
+			],
+			[
+				"09",
+				"html/09.html"
+			],
+			[
+				"viewphoto",
+				"html/0009_10_viewphoto_edit.html"
+			],
+			[
+				"0000_01_new.html",
+				"html/0000_01_new.html"
+			],
+			[
+				"common",
+				"static/c/common.css"
+			],
+			[
+				"fancy",
+				"static/c/jquery.fancybox.css"
+			],
+			[
+				"import",
+				"static/c/import.css"
+			],
+			[
+				"fade",
+				"static/j/faderollover.js"
+			],
+			[
+				"sf",
+				"static/i/common/sftp-config.json"
+			],
+			[
+				"sty",
+				"sample/style.css"
+			],
+			[
+				"style",
+				"static/j/work/style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 576.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 191.0,
+	"status_bar_visible": true
+}

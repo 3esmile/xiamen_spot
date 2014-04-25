@@ -1,0 +1,12 @@
+<% @spots.each do |spot| %> 
+	<p><%= spot.name %>: <%= spot.category.name %></p>
+<% end %>
+
+<hr>
+
+<% @categories.each do | category | %>
+	<p>■<a href="/categories/<%= category.id %>"><%= category.name %></a></p>
+	<% category.spots.each do | test | %>
+		<p>&nbsp; spot: <%= test.name %></p>
+	<% end %>
+<% end %>

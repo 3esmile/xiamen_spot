@@ -1,0 +1,41 @@
+<footer id="footer"><div class="container">
+
+  <div class="row">
+    <div class="col-md-6">
+      <div class="page-header">
+        <h3>All Areas</h3>
+      </div>
+      <div class="row">
+        <% @areas.each do | area | %>
+
+          <div class="col-md-2">
+          <p><a href="/areas/list/<%= area.id %>"><%= area.name %></a></p>
+          <ul class="list-unstyled">
+          <% area.spots.each do | s | %>
+            <li><a href="/spots/<%= s.id %>"><%= s.name %></a></li>
+          <% end %>
+          </ul>
+          </div>
+        <% end %>
+
+
+
+      </div>
+    </div><!-- //areas -->
+    
+    <div class="col-md-6">
+      <div class="page-header">
+        <h3>All Categories</h3>
+      </div>
+      <div class="row">
+        <% @categories.each do | category | %>
+          <div class="col-md-3"><a href="/categories/list/<%= category.id %>"><%= category.name %></a></div>
+        <% end %>
+
+      </div>
+    </div><!-- //all Categories -->
+  </div>
+
+  <p class="text-right">&copy; 2014 Xiamen Spots. All rights reserved.</p>
+
+</div></footer>

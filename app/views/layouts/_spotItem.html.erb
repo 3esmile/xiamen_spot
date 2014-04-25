@@ -1,0 +1,21 @@
+<% i = 1 %>
+<% zone.each do |spot| %> 
+
+  <div class="col-6 col-sm-6 col-lg-4 item">
+    <h3><span class="ranking-no badge pull-right" id="rank-<%= i %>"><span class="glyphicon glyphicon-tower"></span> <%= i %></span> <%= link_to spot.name, spot %></h3>
+    <p class="spot-img"><img src="/assets/<%= spot.image %>" class="img-rounded img-responsive" alt="<%= spot.name %>"></p>
+    <p class="spot-info">
+    <strong>Pinyin</strong>: <%= spot.pinyin %><br>
+    <strong>Description</strong>: <%= truncate(spot.description, :length => 60) %><br>
+    <strong>Address</strong>: <%= spot.address %> 
+    </p>
+    <p class="tags"><strong>Tags</strong>: <%= spot.tags %> </p>
+    <p class="text-info">Category: <a href="/categories/list/<%= spot.category.id %>"><%= spot.category.name %></a></p>
+    <p>
+    <%= link_to 'View details →', spot, :class => "btn btn-info", :role => 'button' %>
+    </p>
+    
+  </div><!--/span-->
+  
+  <% i = i + 1 %>
+<% end %>

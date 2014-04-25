@@ -1,0 +1,18 @@
+
+
+<div class="media">
+  <a class="pull-left" href="#">
+    <img class="media-object" alt="64x64" src="http://placehold.it/64x64">
+  </a>
+  <div class="media-body">
+    <h4 class="media-heading"><%= comment.commenter %></h4>
+    <p><%= comment.body %></p>
+    <p class="gray"><em>Posted <%= time_ago_in_words(comment.created_at) %> ago.</em></p>
+    <p><%= link_to 'Destroy Comment', [comment.spot, comment],
+               :confirm => 'Are you sure?',
+               :method => :delete,
+               :class => 'btn btn-warning btn-sm' %>
+    </p>
+  </div>
+
+</div>
