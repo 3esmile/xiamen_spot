@@ -13,7 +13,7 @@
 
       <ul class="nav navbar-nav">
         <li><a href="/">Home</a></li>
-        <li><a href="/spots">All Spots</a></li>
+        <li class="<% if current_page?(spots_url) %>active<% end %>"><a href="/spots">All Spots</a></li>
         <!-- <li><a href="/areas">Areas</a></li> -->
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">All Areas <b class="caret"></b></a>
@@ -52,8 +52,30 @@
 </div><!-- /.navbar -->
 
 
+<% if current_page?(root_url) %>
+<section class="container-fluid mb20 page-desc">
+<div class="container">
+
+<div class="row">
+  <div class="col-8 col-md-8">
+  <h2>Xiamen Spots Collection</h2>
+  <p>We are the best collection of Xiamen Spots for Japanese!</p>
+</div>
+
+<div class="col-4 col-md-4">
+  
+</div>
+
+</div>
+</div><!--/.container-->
+</section>
+<% end %>
+
+
 <div class="container mb20">
 
   <a href="#"><img src="http://placehold.it/1200x60/f1f1f1/cccccc&text=AD Banner" class="img-responsive"></a>
 
 </div><!--/.container-->
+
+

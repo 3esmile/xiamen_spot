@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"cate",
+				"category"
+			],
+			[
+				"spot",
+				"spots"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
 				"cs",
 				"class"
 			],
@@ -182,10 +194,6 @@
 			[
 				"ico",
 				"icons"
-			],
-			[
-				"li",
-				"li"
 			],
 			[
 				"tx",
@@ -439,111 +447,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "app/views/areas/list.html.erb",
-			"settings":
-			{
-				"buffer_size": 546,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/controllers/categories_controller.rb",
-			"settings":
-			{
-				"buffer_size": 2765,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "config/routes.rb",
-			"settings":
-			{
-				"buffer_size": 2026,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/controllers/areas_controller.rb",
-			"settings":
-			{
-				"buffer_size": 2471,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/controllers/spots_controller.rb",
-			"settings":
-			{
-				"buffer_size": 2225,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/views/comments/_comment.html.erb",
-			"settings":
-			{
-				"buffer_size": 565,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/views/top/index.html.erb",
-			"settings":
-			{
-				"buffer_size": 3152,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/views/spots/show.html.erb",
-			"settings":
-			{
-				"buffer_size": 3745,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/views/comments/_form.html.erb",
-			"settings":
-			{
-				"buffer_size": 248,
-				"line_ending": "Unix",
-				"name": "<p>"
-			}
-		},
-		{
-			"file": "app/models/spot.rb",
-			"settings":
-			{
-				"buffer_size": 440,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/models/comment.rb",
-			"settings":
-			{
-				"buffer_size": 94,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/controllers/comments_controller.rb",
-			"settings":
-			{
-				"buffer_size": 602,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/views/layouts/application.html.erb",
-			"settings":
-			{
-				"buffer_size": 1126,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -577,34 +480,47 @@
 	},
 	"file_history":
 	[
-		"/Users/3esmile/xiamen/app/views/categories/list.html.erb",
-		"/Users/3esmile/xiamen/app/views/layouts/_header.erb",
-		"/Users/3esmile/xiamen/app/views/layouts/_footer.erb",
-		"/Users/3esmile/xiamen/app/views/spots/index.html.erb",
-		"/Users/3esmile/xiamen/app/views/layouts/_spotItem.html.erb",
-		"/Users/3esmile/xiamen/app/views/categories/show.html.erb",
-		"/Users/3esmile/xiamen/app/views/categories/show.html_bk20140421.erb",
-		"/Users/3esmile/xiamen/app/controllers/categories_controller.rb",
-		"/Users/3esmile/xiamen/app/controllers/top_controller.rb",
-		"/Users/3esmile/xiamen/app/controllers/spots_controller.rb",
-		"/Users/3esmile/xiamen/app/assets/stylesheets/module.css",
-		"/Users/3esmile/xiamen/app/controllers/application_controller.rb",
-		"/Users/3esmile/xiamen/app/models/spot.rb",
-		"/Users/3esmile/xiamen/app/views/areas/_form.html.erb",
-		"/Users/3esmile/xiamen/app/views/spots/show.html.erb",
+		"/Users/3esmile/xiamen/db/migrate/20140424131158_add_images_to_spots.rb",
+		"/Users/3esmile/xiamen/app/assets/stylesheets/jquery.bxslider.css",
+		"/Users/3esmile/xiamen/app/assets/javascripts/main.js",
+		"/Users/3esmile/xiamen/Gemfile",
 		"/Users/3esmile/xiamen/app/views/layouts/application.html.erb",
 		"/Users/3esmile/xiamen/app/views/top/index.html.erb",
-		"/Users/3esmile/xiamen/app/assets/stylesheets/main.css",
+		"/Users/3esmile/xiamen/app/views/layouts/_header.erb",
+		"/Users/3esmile/xiamen/app/views/spots/show.html.erb",
+		"/Users/3esmile/xiamen/app/views/spots/index.html.erb",
+		"/Users/3esmile/xiamen/app/views/categories/list.html.erb",
+		"/Users/3esmile/xiamen/app/views/areas/list.html.erb",
+		"/Users/3esmile/xiamen/app/views/layouts/_footer.erb",
+		"/Users/3esmile/xiamen/app/views/spots/_form.html.erb",
+		"/Users/3esmile/xiamen/db/schema.rb",
+		"/Users/3esmile/xiamen/app/views/comments/_form.html.erb",
+		"/Users/3esmile/xiamen/app/models/spot.rb",
+		"/Users/3esmile/xiamen/app/views/layouts/_spotItem.html.erb",
+		"/Users/3esmile/xiamen/app/controllers/top_controller.rb",
+		"/Users/3esmile/xiamen/app/controllers/spots_controller.rb",
+		"/Users/3esmile/xiamen/app/controllers/categories_controller.rb",
 		"/Users/3esmile/xiamen/app/controllers/areas_controller.rb",
+		"/Users/3esmile/xiamen/app/assets/stylesheets/main.css",
+		"/Users/3esmile/xiamen/config/routes.rb",
+		"/Users/3esmile/xiamen/db/migrate/20140110085709_create_spots.rb",
+		"/Users/3esmile/xiamen/app/controllers/comments_controller.rb",
+		"/Users/3esmile/xiamen/app/models/comment.rb",
+		"/Users/3esmile/xiamen/app/assets/javascripts/application.js",
+		"/Users/3esmile/xiamen/app/assets/stylesheets/application.css",
+		"/Users/3esmile/xiamen/app/controllers/spots_controller 2.rb",
+		"/Users/3esmile/xiamen/app/views/comments/_comment.html.erb",
+		"/Users/3esmile/xiamen/app/views/categories/show.html.erb",
+		"/Users/3esmile/xiamen/app/views/categories/show.html_bk20140421.erb",
+		"/Users/3esmile/xiamen/app/assets/stylesheets/module.css",
+		"/Users/3esmile/xiamen/app/controllers/application_controller.rb",
+		"/Users/3esmile/xiamen/app/views/areas/_form.html.erb",
 		"/Users/3esmile/xiamen/app/views/spots/index.html_bk20140415.erb",
 		"/Users/3esmile/xiamen/app/assets/stylesheets/bootstrap.min.css",
 		"/Users/3esmile/xiamen/app/models/category.rb",
 		"/Users/3esmile/xiamen/app/models/area.rb",
-		"/Users/3esmile/xiamen/app/views/spots/_form.html.erb",
 		"/Users/3esmile/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-		"/Users/3esmile/xiamen/db/migrate/20140110085709_create_spots.rb",
 		"/Users/3esmile/xiamen/config/application.rb",
-		"/Users/3esmile/xiamen/config/routes.rb",
 		"/Users/3esmile/xiamen/config/environment.rb",
 		"/Users/3esmile/xiamen/db/migrate/20140110092100_add_column_to_category_id_to_spots.rb",
 		"/all-stars/Google Drive/Dropbox/projects/mymymarket/skins/basic/admin/views/products/update.tpl",
@@ -691,20 +607,7 @@
 		"/all-stars/Google Drive/Dropbox/projects/iblade/static/c/main.css",
 		"/all-stars/Google Drive/Dropbox/projects/iblade/admin/wp-content/themes/ic/header.php",
 		"/all-stars/Google Drive/Dropbox/projects/ppl/ppl_local_20130707_2.sql",
-		"/all-stars/Google Drive/Dropbox/projects/ppl/ppl_t_ser_20130707.sql",
-		"/all-stars/Google Drive/Dropbox/projects/ppl/ppl_local_20130707.sql",
-		"/all-stars/Google Drive/Dropbox/projects/ppl/static/j/t.js",
-		"/all-stars/Google Drive/Dropbox/projects/twe/static/j/work/settings.js",
-		"/all-stars/Google Drive/Dropbox/projects/ppl/admin/wp-content/themes/twentytwelve/index.php",
-		"/all-stars/Google Drive/Dropbox/projects/iblade/admin/wp-content/themes/ic/inc/product-list.php",
-		"/all-stars/Google Drive/Dropbox/projects/ppl/admin/wp-content/themes/ppl/inc/page-title.php",
-		"/all-stars/Google Drive/Dropbox/projects/ppl/html/p-detail.html",
-		"/all-stars/Google Drive/Dropbox/projects/ppl/admin/wp-content/themes/ppl/includes/main-p-detail.html",
-		"/all-stars/Google Drive/Dropbox/projects/ppl/html/news.html",
-		"/all-stars/Google Drive/Dropbox/projects/twe/admin/wp-content/themes/twe/content-work-detail.php",
-		"/all-stars/Google Drive/Dropbox/projects/ppl/admin/wp-content/themes/ppl/includes/sidebar-related.html",
-		"/all-stars/Google Drive/Dropbox/projects/ppl/admin/wp-content/themes/ppl/content-single-product.php",
-		"/all-stars/Google Drive/Dropbox/projects/ppl/admin/wp-content/themes/ppl/single-news.php"
+		"/all-stars/Google Drive/Dropbox/projects/ppl/ppl_t_ser_20130707.sql"
 	],
 	"find":
 	{
@@ -722,6 +625,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"../images/",
+			"digg_pagination",
+			"bxslider",
+			"(images",
 			"article",
 			"col-md-2",
 			"../fonts/",
@@ -845,11 +752,7 @@
 			"'post'",
 			"'design'",
 			"'app'",
-			"'company'",
-			"$pt_products",
-			"'products'",
-			"'material'",
-			"'production'"
+			"'company'"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -857,6 +760,9 @@
 		"regex": false,
 		"replace_history":
 		[
+			"",
+			"pagination",
+			"(../images",
 			"spot",
 			"col-md-3",
 			"/assets/",
@@ -901,415 +807,13 @@
 	"groups":
 	[
 		{
-			"selected": 5,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "app/views/areas/list.html.erb",
-					"settings":
-					{
-						"buffer_size": 546,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								266,
-								136
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "app/controllers/categories_controller.rb",
-					"settings":
-					{
-						"buffer_size": 2765,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								759,
-								759
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Ruby/Ruby.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "config/routes.rb",
-					"settings":
-					{
-						"buffer_size": 2026,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								98,
-								98
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Ruby/Ruby.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "app/controllers/areas_controller.rb",
-					"settings":
-					{
-						"buffer_size": 2471,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								780,
-								780
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Ruby/Ruby.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "app/controllers/spots_controller.rb",
-					"settings":
-					{
-						"buffer_size": 2225,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								431,
-								536
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Ruby/Ruby.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "app/views/comments/_comment.html.erb",
-					"settings":
-					{
-						"buffer_size": 565,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								254,
-								254
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		},
 		{
-			"selected": 5,
 			"sheets":
 			[
-				{
-					"buffer": 6,
-					"file": "app/views/top/index.html.erb",
-					"settings":
-					{
-						"buffer_size": 3152,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2433,
-								2506
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "app/views/spots/show.html.erb",
-					"settings":
-					{
-						"buffer_size": 3745,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2859,
-								2859
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1702.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "app/views/comments/_form.html.erb",
-					"settings":
-					{
-						"buffer_size": 248,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								209,
-								209
-							]
-						],
-						"settings":
-						{
-							"auto_name": "<p>",
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "app/models/spot.rb",
-					"settings":
-					{
-						"buffer_size": 440,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								208,
-								208
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 10,
-					"file": "app/models/comment.rb",
-					"settings":
-					{
-						"buffer_size": 94,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								94,
-								94
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 11,
-					"file": "app/controllers/comments_controller.rb",
-					"settings":
-					{
-						"buffer_size": 602,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								81,
-								81
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Ruby/Ruby.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 12,
-					"file": "app/views/layouts/application.html.erb",
-					"settings":
-					{
-						"buffer_size": 1126,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1108,
-								1108
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1341,7 +845,7 @@
 		"cols":
 		[
 			0.0,
-			0.46333521217,
+			0.477280905826,
 			1.0
 		],
 		"rows":
@@ -1365,6 +869,26 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"bx",
+				"app/assets/stylesheets/jquery.bxslider.css"
+			],
+			[
+				"footer",
+				"app/views/layouts/_footer.erb"
+			],
+			[
+				"main",
+				"app/assets/stylesheets/main.css"
+			],
+			[
+				"spotit",
+				"app/views/layouts/_spotItem.html.erb"
+			],
+			[
+				"appli",
+				"app/views/layouts/application.html.erb"
+			],
 			[
 				"app",
 				"app/views/layouts/application.html.erb"
@@ -1486,10 +1010,6 @@
 				"admin/wp-content/themes/ppl/inc/item-news.php"
 			],
 			[
-				"footer",
-				"admin/wp-content/themes/ppl/footer.php"
-			],
-			[
 				"sidebar",
 				"admin/wp-content/themes/ppl/sidebar.php"
 			],
@@ -1520,10 +1040,6 @@
 			[
 				"list_gallery",
 				"inc/list_gallery.php"
-			],
-			[
-				"main",
-				"static/j/main.js"
 			],
 			[
 				"404.",
@@ -1864,18 +1380,6 @@
 			[
 				"fade",
 				"static/j/faderollover.js"
-			],
-			[
-				"sf",
-				"static/i/common/sftp-config.json"
-			],
-			[
-				"sty",
-				"sample/style.css"
-			],
-			[
-				"style",
-				"static/j/work/style.css"
 			]
 		],
 		"width": 0.0
@@ -1892,6 +1396,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 191.0,
+	"side_bar_width": 187.0,
 	"status_bar_visible": true
 }

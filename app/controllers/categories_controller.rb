@@ -34,6 +34,7 @@ class CategoriesController < ApplicationController
     @category = Category.find(params[:id])
     @areas = Area.all
     @categories = Category.all
+    @posts = Spot.where(category_id: @category.id).paginate(:page => params[:page], :per_page => 10)
 
     respond_to do |format|
       format.html # show.html.erb

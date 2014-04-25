@@ -17,15 +17,48 @@ footer {
   padding-top: 0;
   padding-bottom: 60px;
   border-top: 1px solid #eee;
-  background: #fdfdfd;
+  background: #fdfdfd url(bg_gulanyu.jpg) 50% 60%;
+  color: #fff;
+  text-shadow: 0 1px 1px rgba(0,0,0,.3);
 }
 #footer .list-unstyled li {
   padding-bottom: 5px;
 }
-#footer .list-unstyled li a {
-  color: #333;
+#footer a {
+  color: #fff;
+}
+#footer .sub-title {
+  font-size: 1.3em;
+  margin-bottom: 20px;
 }
 
+
+.navbar-inverse {
+  background: #0e2963;
+}
+.navbar-inverse .navbar-brand,
+.navbar-inverse .navbar-nav>li>a {
+  color: #fff;
+  color: rgba(255,255,255, .85);
+}
+.page-desc {
+  /*text-align: center;*/
+  background: url(bg_gulanyu.jpg) 50% 0% no-repeat;
+  padding-top: 30px;
+  padding-bottom:30px;
+  margin-top: -20px;
+}
+.page-desc h2,
+.page-desc p {
+  color: #fff;
+  text-shadow: 0 1px 1px rgba(0,0,0,.3);
+}
+.page-desc h2 {
+  font-size: 3em;
+}
+.page-desc p {
+  font-size: 1.5em;
+}
 .ranking-no {
   display: none;
 }
@@ -40,6 +73,8 @@ footer {
 }
 
 
+
+/* == pagenation */
 .pagination {
   background: white;
   cursor: default;
@@ -88,7 +123,12 @@ footer {
     overflow: hidden; }
 
 
-    
+
+
+.field {
+  margin-bottom: 20px;
+}
+
 /*
  * Off Canvas
  * --------------------------------------------------

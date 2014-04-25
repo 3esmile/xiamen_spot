@@ -9,7 +9,7 @@
         <% @areas.each do | area | %>
 
           <div class="col-md-2">
-          <p><a href="/areas/list/<%= area.id %>"><%= area.name %></a></p>
+          <p class="sub-title"><a href="/areas/list/<%= area.id %>"><%= area.name %></a></p>
           <ul class="list-unstyled">
           <% area.spots.each do | s | %>
             <li><a href="/spots/<%= s.id %>"><%= s.name %></a></li>
