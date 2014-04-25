@@ -6,46 +6,17 @@
   <p>We are the best collection of Xiamen Spots for Japanese!</p>
 </div>
 
+<section class="slider">
+<ul class="bxslider">
+   <% i = 0 %>
+<% @spots_featured.each do |spot| %> 
 
+  <li><a href="/spots/<%= spot.id %>"><img src="/uploads/<%= spot.image %>" title="［<%= spot.name %>］ <%= truncate(spot.description, :length => 60) %>" /></a></li>
 
-<div class="bs-example mb30">
-    <div id="carousel-example-captions" class="carousel slide" data-ride="carousel">
-      <ol class="carousel-indicators">
-        <li data-target="#carousel-example-captions" data-slide-to="0" class="active"></li>
-        <li data-target="#carousel-example-captions" data-slide-to="1"></li>
-        <li data-target="#carousel-example-captions" data-slide-to="2"></li>
-      </ol>
-      <div class="carousel-inner">
-        <div class="item active">
-          <img src="http://placehold.it/900x500/777/ccc&text=slider 1" alt="First slide image">
-          <div class="carousel-caption">
-            <h3>First slide label</h3>
-            <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
-          </div>
-        </div>
-        <div class="item">
-          <img src="http://placehold.it/900x500/777/ccc&text=slider 2" alt="Second slide image">
-          <div class="carousel-caption">
-            <h3>Second slide label</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-          </div>
-        </div>
-        <div class="item">
-          <img src="http://placehold.it/900x500/777/ccc&text=slider 3" alt="Third slide image">
-          <div class="carousel-caption">
-            <h3>Third slide label</h3>
-            <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
-          </div>
-        </div>
-      </div>
-      <a class="left carousel-control" href="#carousel-example-captions" data-slide="prev">
-        <span class="glyphicon glyphicon-chevron-left"></span>
-      </a>
-      <a class="right carousel-control" href="#carousel-example-captions" data-slide="next">
-        <span class="glyphicon glyphicon-chevron-right"></span>
-      </a>
-    </div>
-  </div><!-- /example -->
+<% i = i + 1 %>
+<% end %>
+</ul>
+</section><!-- /slider -->
 
 
 <div class="panel panel-default">

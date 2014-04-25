@@ -3,7 +3,7 @@
 
   <div class="col-6 col-sm-6 col-lg-4 item">
     <h3><span class="ranking-no badge pull-right" id="rank-<%= i %>"><span class="glyphicon glyphicon-tower"></span> <%= i %></span> <%= link_to spot.name, spot %></h3>
-    <p class="spot-img"><img src="/assets/<%= spot.image %>" class="img-rounded img-responsive" alt="<%= spot.name %>"></p>
+    <p class="spot-img"><a href="/spots/<%= spot.id %>"><img src="/assets/<%= spot.image %>" class="img-rounded img-responsive" alt="<%= spot.name %>"></a></p>
     <p class="spot-info">
     <strong>Pinyin</strong>: <%= spot.pinyin %><br>
     <strong>Description</strong>: <%= truncate(spot.description, :length => 60) %><br>
