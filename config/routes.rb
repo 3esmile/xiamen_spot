@@ -1,11 +1,12 @@
 Xiamen::Application.routes.draw do
-  resources :areas
+  get "sign_up" => "users#new", :as => "sign_up"
+  resources :users
 
+  resources :areas
 
   get "top/index"
 
   resources :categories
-
 
   resources :spots do
     resources :comments
